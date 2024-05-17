@@ -1,7 +1,7 @@
 ### Hi, I'm Charles 👋👨🏿‍💻
-![github readme profile picture](https://github.com/charles356/charles356/assets/84462091/586ed28c-e783-4678-a073-780076dd9934)
-<!--
-**charles356/charles356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![github readme profile picture](https://github.com/charles356/charles356/assets/84462091/a901ed62-6bbe-4a17-b039-2632cbbe8732)
+ a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
