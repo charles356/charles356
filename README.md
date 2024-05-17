@@ -5,31 +5,19 @@
 ## About Me
 I am a passionate Data Analyst dedicated to extracting insights from data and transforming them into actionable strategies. With a robust foundation in data analysis, I am constantly honing my skills and staying updated with the latest trends and technologies in the field. My journey in data analytics is driven by a curiosity to understand complex data sets and a desire to derive meaningful conclusions that drive business growth.
 
-## My Expertise
-I have developed proficiency in a variety of programming languages and visualization tools, allowing me to tackle diverse data challenges effectively. My skill set includes:
-
 ### Programming Languages:
-- **R**: Proficient in data manipulation, statistical analysis, and creating visualizations using R and RStudio.
+- **RStudio**: Proficient in data manipulation, statistical analysis, and creating visualizations using R and RStudio.
 - **SQL**: Experienced in writing complex queries to manage and analyze data in relational databases.
-- **Python**: Skilled in using libraries like pandas, NumPy, and Matplotlib for data analysis and visualization.
 
 ### Visualization Tools:
 - **Power BI**: Expert in creating interactive dashboards and reports to visualize business data.
 - **Tableau**: Skilled in designing and developing comprehensive visualizations to support data-driven decisions.
 
-### Additional Skills:
-- **APIs**: Proficient in integrating and utilizing APIs for data extraction and analysis.
-- **Excel**: Advanced knowledge in using Excel for data manipulation, analysis, and visualization.
-
-## What I'm Working On
-I am currently focused on expanding my knowledge and expertise in advanced data analysis techniques and machine learning. I am also exploring new tools and technologies that can enhance my data visualization capabilities.
-
 ## Let's Connect!
 I am always eager to connect with fellow data enthusiasts, professionals, and anyone interested in the world of data. Whether you want to discuss the latest trends in data analytics, collaborate on a project, or just chat about all things data, feel free to reach out!
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com)
-- **Twitter**: [Your Twitter Handle](https://twitter.com)
-- **Email**: [Your Email Address](mailto:your.email@example.com)
+- **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com](https://www.linkedin.com/in/charles-muiruri-9b0272162/))
+- **Email**: [Your Email Address](charlesm.356@gmail.com)
 
 Looking forward to connecting with you and sharing our passion for data!
 
