@@ -1,4 +1,4 @@
-### Hi I'm Charles 👋
+### Hi, I'm Charles 👋👨🏿‍💻
 
 <!--
 **charles356/charles356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
