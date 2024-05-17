@@ -1,4 +1,4 @@
-### Hi, I'm Charles 👋👨🏿‍💻
+### Hi, I'm Charles 👋🏾👨🏿‍💻
 
 ![github readme profile picture](https://github.com/charles356/charles356/assets/84462091/f2b584db-7ac7-447b-88b6-9c9b37c54c02)
 
