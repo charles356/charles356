@@ -7,7 +7,7 @@
 
 🙋🏾‍♂️ I am always excited to connect with fellow data enthusiasts, anyone interested in any of my analysis, or just want to chat about data.
 
-- **LinkedIn**: [https://www.linkedin.com](https://www.linkedin.com/in/charles-muiruri-9b0272162/)]
+- **LinkedIn**: [https://www.linkedin.com](https://www.linkedin.com/in/charles-muiruri-9b0272162/)
 - **Email**: [Charlesm.356@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzCbXLFNjdKNNHclQLBTrfXLBxBWkKJzhZVrMsfqMNhgwJJzzQXvBqQpNQlcGZpfflwMFdF)
 
 ---
