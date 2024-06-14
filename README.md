@@ -3,7 +3,7 @@
 
 ## Hi, I'm Charles 👋🏾👨🏿‍💻
 
-📊 I am a dedicated and passionate Data Analyst with a strong foundation in multiple programming languages and visualization tools, including RStudio, SQL, Power BI, and Tableau. Proficient in data manipulation, statistical analysis, API's and creating visualizations, I'm dedicated to turn raw data into meaningful insights ultimetly forming informed decision-making and strategic planning in organisations
+📊 I am a dedicated and passionate Data Analyst with a strong foundation in multiple programming languages and visualization tools, including RStudio, SQL, Power BI, and Tableau. Proficient in data manipulation, statistical analysis, API's and creating visualizations, I'm committed to turn raw data into meaningful insights ultimetly forming informed decision-making and strategic planning in organisations
 
 🙋🏾‍♂️ I am always excited to connect with fellow data enthusiasts, anyone interested in any of my analysis, or just want to chat about data.
 
